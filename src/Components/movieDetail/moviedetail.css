@@ -52,3 +52,23 @@
 .section-right{
     margin-left: 30px;
 }
+@media (max-width: 750px){
+    .movie-section{
+        display: block;
+    }
+    
+}
+@media (max-width: 580px){
+    .movie-title{
+        font-size: 25px;
+    }   
+    .movie-ranting{
+        display: block;
+    
+        span{
+            display: flex;
+            gap: 10px;
+        }
+    }
+    
+}
