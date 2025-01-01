@@ -9,7 +9,7 @@ export const fetchAsyncMovies = createAsyncThunk(
     return response.data;
   }
 );
-
+//hugyfgyyuh
 export const fetchAsyncMoviesDetail = createAsyncThunk(
   'movies/fetchAsyncMoviesDetail',
   async (id) => {

@@ -6,7 +6,7 @@ import MovieDetail from './Components/movieDetail/MovieDetail';
 import PageNotFound from './Components/PageNotFound/PageNotFound';
 import Footer from './Components/footer/footer';
 import Header from './Components/header/header';
-
+//nbbjjnjknkn
 function App() {
   return (
     <div className="App">
